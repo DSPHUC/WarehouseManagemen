@@ -1,0 +1,4 @@
+0,Thực phẩm tươi sống,rau củ quả, thịt, hải sản, sữa và sản phẩm từ sữa, trứng,...
+1,Điện thoại di động,thết bị liên lạc
+2,Bánh kẹo,Đa dạng về hương vị, hình dạng và chất lượng
+3,Thịt và cá đóng hộp,Dạng sản phẩm thực phẩm được đóng gói trong hộp

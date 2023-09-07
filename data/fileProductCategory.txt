@@ -1,0 +1,7 @@
+0,Thực phẩm
+1,Đồ uống
+2,Mỹ phẩm
+3,Đồ điện tử và công nghệ
+4,Thời trang và phụ kiện
+5,Đồ chơi và đồ dùng trẻ em
+6,Đồ thể thao và ngoại khóa

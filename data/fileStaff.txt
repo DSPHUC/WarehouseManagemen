@@ -1,0 +1,5 @@
+0,Phạm Văn Đạt,Nam,044444444,28 Nguyễn Tri Phương,dat,1234,Sale
+1,Bùi Quang Tuấn,Nam,0222222222,28 Nguyễn Tri Phương,tuananh,1234,Import
+2,Nguyễn Ngọc Duy,Nam,0111111111,28 Nguyễn Tri Phương,duy,1234,Inventory
+3,Phùng Anh Tuấn,Nam,03333333,28 Nguyễn Tri Phương,tuanem,1234,Audit
+4,Đức,Nam,0123132,28ntp,duc,1234,Import

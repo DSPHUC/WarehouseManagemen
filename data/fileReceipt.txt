@@ -1,0 +1,4 @@
+1,INPUT,[0,Thịt lợn xay,Thịt lợn tươi được xay nhuyễn đóng hộp,2,Đồ uống,1,Thực phẩm tươi sống,rau củ quả,2222,222222],Đồng Sĩ Phúc,Manager,2023-09-05T11:11:11
+2,INPUT,[2,Cá hộp,thịt cá xay nhuyễn,2,Đồ uống,4,Thịt và cá đóng hộp,Dạng sản phẩm thực phẩm được đóng gói trong hộp,2222,22222],Đồng Sĩ Phúc,Manager,2023-09-05T11:00
+3,INPUT,[0,Thịt lợn xay,Thịt lợn tươi được xay nhuyễn đóng hộp,2,Đồ uống,1,Thực phẩm tươi sống,rau củ quả,2222,22222],Đồng Sĩ Phúc,Manager,2023-09-05T22:00
+4,INPUT,[0,Thịt lợn xay,Thịt lợn tươi được xay nhuyễn đóng hộp,2,Đồ uống,1,Thực phẩm tươi sống,rau củ quả,22222,22222, 2,Cá hộp,thịt cá xay nhuyễn,2,Đồ uống,4,Thịt và cá đóng hộp,Dạng sản phẩm thực phẩm được đóng gói trong hộp,33,33333],Đồng Sĩ Phúc,Manager,2023-09-08T22:22

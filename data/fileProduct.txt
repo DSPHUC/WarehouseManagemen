@@ -1,0 +1,9 @@
+0,Thịt lợn xay,Thịt lợn tươi được xay nhuyễn đóng hộp,2,Đồ uống,1,Thực phẩm tươi sống,rau củ quả
+1,Thịt cá xay,cá xay tươi xoay nhuyễn ,3,Mỹ phẩm,2,Điện thoại di động,thết bị liên lạc
+2,Cá hộp,thịt cá xay nhuyễn,2,Đồ uống,4,Thịt và cá đóng hộp,Dạng sản phẩm thực phẩm được đóng gói trong hộp
+3,cá hộp,thịt cá xay nhuyễn,0,Thực phẩm,3,Thịt và cá đóng hộp,Dạng sản phẩm thực phẩm được đóng gói trong hộp
+4,1,hghfhg,1,Đồ uống,1,Điện thoại di động,thết bị liên lạc
+5,Thịt heo,jtdf],0,Thực phẩm,0,Thực phẩm tươi sống,rau củ quả
+6,Thjit,sdfdsf,0,Thực phẩm,0,Thực phẩm tươi sống,rau củ quả
+7,Thịt lơợn xay,đâsđá,2,Mỹ phẩm,2,Bánh kẹo,Đa dạng về hương vị
+8,Cá hồi,áđâs,0,Thực phẩm,3,Thịt và cá đóng hộp,Dạng sản phẩm thực phẩm được đóng gói trong hộp
